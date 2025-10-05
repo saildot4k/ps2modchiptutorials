@@ -35,7 +35,7 @@ There is no signed exploit[^3] like FMCB included. Why? Because not all modchips
 
     ---
 
-    [:material-cloud-download: SD2PSX](https://github.com/saildot4k/ps2homebrewstore/raw/refs/heads/main/docs/assets/MMCE-ALL.7z)
+    [:material-cloud-download: SD2PSX](https://downloads.ps2homebrewstore.com/MMCE-ALL.7z)
 
     Unzip and merge contents to root of your MMCE device (THIS WILL WIPE YOUR BOOT CARDS!) Short press either button to select BOOT card 7: `MODCHIP AIO` if your card supports "DEV 1" or BOOT card 1: `PS2BBL AIO`. MUST BE ON [FW 1.2.0 or later!](https://sd2psxtd.github.io/download)
 
@@ -44,7 +44,7 @@ There is no signed exploit[^3] like FMCB included. Why? Because not all modchips
 
     ---
 
-    [:material-cloud-download: MCP2](https://github.com/saildot4k/ps2homebrewstore/raw/refs/heads/main/docs/assets/MMCE-ALL.7z)
+    [:material-cloud-download: MCP2](https://downloads.ps2homebrewstore.com/MMCE-ALL.7z)
 
     Unzip and merge contents to root of your MMCE device. Use the WEB UI to set boot card to `MODCHIP AIO`. [Manual](https://manuals.plus/memcardpro2/mcp201-stone-age-gamer-manual#the_webui) MUST BE ON [FW 1.4.0 or later!](https://distribution.appcake.co.uk/install/8bitmods/apps/memcard-pro2/public)
 
