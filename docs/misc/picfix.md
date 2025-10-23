@@ -88,16 +88,14 @@ If you are an installer and would like a sample, please let me [know!](mailto:in
 
     ---
 
-    ![GH-026 Flex Front](assets/picfix/SCPH-500XX/GH-023/GH-023%20PicFix%20Flex.png)
-    In prototype stage...
+    ![GH-023 Flex Front](assets/picfix/SCPH-500XX/GH-023/GH-023%20PicFix%20Flex.png)
 
 
 -   SCPH-500XX GH-023 Flex Rear
 
     ---
 
-    ![GH-026 Flex Rear](assets/picfix/SCPH-500XX/GH-023/GH-023%20PicFix%20Flex%20Rear.png)
-    In prototype stage...
+    ![GH-023 Flex Rear](assets/picfix/SCPH-500XX/GH-023/GH-023%20PicFix%20Flex%20Rear.png)
 
 
 -   SCPH-500XX GH-023 Install Diagram
@@ -107,11 +105,11 @@ If you are an installer and would like a sample, please let me [know!](mailto:in
     Placeholder, not completed
 
 
--   Installed (pics to come)
+-   SCPH-500XX GH-023 Installed
 
     ---
 
-    Placeholder, not completed
+    ![GH-023 Flex Rear](assets/picfix/SCPH-500XX/GH-023/GH-023-installed.jpg)
 
 </div>
 
@@ -125,7 +123,6 @@ If you are an installer and would like a sample, please let me [know!](mailto:in
     ---
 
     ![GH-029 Flex Front](assets/picfix/SCPH-500XX/GH-026/GH-026%20PicFix%20Front%20Render.png)
-    In prototype stage...
 
 
 -   SCPH-500XX GH-029 Flex Rear
@@ -133,7 +130,6 @@ If you are an installer and would like a sample, please let me [know!](mailto:in
     ---
 
     ![GH-029 Flex Back](assets/picfix/SCPH-500XX/GH-026/GH-026%20PicFix%20Back%20Render.png)
-    In prototype stage...
 
 
 -   SCPH-500XX GH-029 Install Diagram
@@ -144,12 +140,11 @@ If you are an installer and would like a sample, please let me [know!](mailto:in
     In prototype stage...
 
 
--   Installed (pics to come)
+-   SCPH-500XX GH-026/029 Installed
 
     ---
 
-    Picture Placeholder
-    In prototype stage...
+    ![GH-026 Flex Rear](assets/picfix/SCPH-500XX/GH-026/GH-026-installed.jpg)
 
     
 </div>
