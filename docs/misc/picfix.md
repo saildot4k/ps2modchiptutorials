@@ -109,7 +109,7 @@ If you are an installer and would like a sample, please let me [know!](mailto:in
 
     ---
 
-    ![GH-023 Flex Rear](assets/picfix/SCPH-500XX/GH-023/GH-023-installed.jpg)
+    ![GH-023 Flex Rear](assets/picfix/SCPH-500XX/GH-023/GH-023-installed.png)
 
 </div>
 
@@ -144,7 +144,7 @@ If you are an installer and would like a sample, please let me [know!](mailto:in
 
     ---
 
-    ![GH-026 Flex Rear](assets/picfix/SCPH-500XX/GH-026/GH-026-installed.jpg)
+    ![GH-026 Flex Rear](assets/picfix/SCPH-500XX/GH-026/GH-026-installed.png)
 
     
 </div>
@@ -181,7 +181,7 @@ If you are an installer and would like a sample, please let me [know!](mailto:in
 
     ---
 
-    ![V12 Installed](assets/picfix/SCPH-700XX/70K%20Installed.jpg)
+    ![V12 Installed](assets/picfix/SCPH-700XX/70K%20Installed.png)
 
     
 </div>
