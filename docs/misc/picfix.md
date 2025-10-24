@@ -69,14 +69,26 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
 [Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.com/m4x10187) and [PCM720](https://github.com/pcm720) for kicad, electrical and logo help! Thanks to [Team Matrix](https://web.archive.org/web/20051228080334/http://infinitymod.com/matrix/) for the code and initial wiring. [ModzvilleUSA](https://modzvilleusa.com/products/ps2-matrix-picfix-for-v9-v12-ps2-consoles), HaloSlayer255 and [Helder](https://heldergametech.com/product-category/ps2/) for rediscovery, documentation, and circuit.
 
 ## Purchasing PCBs or Files
+<div class="grid cards" markdown>
 
-[![Tindie](assets/picfix/tindie-mediums.png){ width="100" align=left }](https://www.tindie.com/products/r3z3n/sony-ps2-matrix-picfix-flex-for-scph-700xx/) $8/per or $7/per 10 units and over. Shipping is $5 in USA.
+-   [![Tindie](assets/picfix/tindie-mediums.png){ width="100" }](https://www.tindie.com/products/r3z3n/sony-ps2-matrix-picfix-flex-for-scph-700xx/) 
 
-[![Ko-Fi](assets/picfix/support_me_on_kofi_badge_red.png){ width="100" align=left}](https://ko-fi.com/r3z3n/shop) $8/per and shipping is $5 in USA. Gerbers, BOM and Placement file here as well!
+    $8/per or $7/per 10 units and over. Shipping is $5 in USA.
 
-[![Ebay](assets/picfix/ebay_logo.png){ width="100" align=left}](https://www.ebay.com/itm/116567931846) Ebay is the only choice for worldwide shipping from me, $8 and shipping is calculated by them.
 
-If you are an installer and would like a sample, please let me [know!](mailto:info@ps2modchiptutorials.com)
+-   [![Ko-Fi](assets/picfix/support_me_on_kofi_badge_red.png){ width=100" }](https://ko-fi.com/r3z3n/shop)
+
+    $8/per and shipping is $5 in USA. Gerbers, BOM and Placement file here as well!
+
+
+-   [![Ebay](assets/picfix/ebay_logo.png){ width="100" }](https://www.ebay.com/itm/116567931846)
+
+    Ebay is the only choice for worldwide shipping from me, $8 and shipping is calculated by them.
+
+
+-   If you are an installer and would like a sample, please let me [know!](mailto:info@ps2modchiptutorials.com)
+
+</div>
 
 ### SCPH-500XX Flex PCB
 
