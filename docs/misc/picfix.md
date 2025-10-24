@@ -102,7 +102,7 @@ If you are an installer and would like a sample, please let me [know!](mailto:in
 
     ---
 
-    Placeholder, not completed
+    ![GH-023 Install Diagram](assets/picfix/SCPH-500XX/GH-023/PICFIX%2050K%20GH-023%20Install%20Diagram.jpg)
 
 
 -   SCPH-500XX GH-023 Installed
@@ -136,8 +136,7 @@ If you are an installer and would like a sample, please let me [know!](mailto:in
 
     ---
 
-    Picture Placeholder
-    In prototype stage...
+    ![GH-026 Install Diagram](assets/picfix/SCPH-500XX/GH-026/PICFIX%2050K%20GH-026%20Install%20Diagram.jpg)
 
 
 -   SCPH-500XX GH-026/029 Installed
