@@ -198,7 +198,7 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
 </div>
 
 
-## Parts Needed
+## Making your own / Populating a bare PCB
 
 These are needed if you purchased a bare flex PCB from me, or are designing your own based off [ModzVillUSA's circuit](https://github.com/MechaResearch/MechaPwn/tree/master/docs/Matrix%20PIC/Gerber).
 
