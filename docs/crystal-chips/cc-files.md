@@ -1,6 +1,20 @@
-## Crystal Chip FW 34 V5 by R3Z3N 6/27/2025
+## Crystal Chip FW 34 V6 by R3Z3N 11/17/2025
 
-[:material-cloud-download: Crystal Chip FW R34 v5 with updated Dashboard Scripts by R3Z3N](https://github.com/saildot4k/Crystal-Chip-R34-v5/archive/refs/heads/v5.zip)
+[:material-cloud-download: Crystal Chip FW R34 v5 with updated Dashboard Scripts by R3Z3N](https://github.com/saildot4k/Crystal-Chip-R34-v6/archive/refs/heads/v6.zip)
+
+???+ note "R34 V6 Changes"
+    Fixes/Changes:
+
+	- MMCE is now treated like HDD/NETWORK. You can enable/disable/autoload in the Configuration menu.
+
+	- Advanced App Config added for apps that support more than 1 arg[v]. See APP_NHDDL for example from https://ps2store.com  
+        This is also useful for testing different boot methods. Reference SYS_OSDMENU from https://ps2store.com
+
+	- Can delete saved app configs from BootManager saved variables (This does not affect apps that MAKE their own      configs like OPL.)
+
+	- Scripting cleanup/simplification
+
+## Crystal Chip FW 34 V5 by R3Z3N 6/27/2025
 
 ???+ note "R34 V5 Changes"
     Fixes/Changes:
