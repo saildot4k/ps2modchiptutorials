@@ -76,7 +76,6 @@
     - Bundle the new apps for the MegaPack as they are added to ps2wiki.github.io
 
 
-
 ???- note "R34 V4 Changes by R3Z3N 05/17/2025"
     Fixes/Changes:
 
