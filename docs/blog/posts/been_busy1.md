@@ -27,8 +27,14 @@ During all this I finished the 50K PICFixes so now have them all for [sale/downl
 
 [sale]: https://ps2modchiptutorials.com/misc/picfix
 
-Then needed to make a ps2 for a friend that helped: 
-![Thanks-build_PIC](https://ps2modchiptutorials.com/assets/blog/simonsps2.jpg){ width="800" }
+I rewired my personal main PS2:
+![PersonalCC_PIC](https://ps2modchiptutorials.com/assets/blog/personalcc.jpg){ width="500" }
+
+....Color matched my Ghost2v2:
+![PersonalGHOST2_PIC](https://ps2modchiptutorials.com/assets/blog/personalghost2.jpg){ width="500" }
+
+....Then needed to make a ps2 for a friend that helped: 
+![Thanks-build_PIC](https://ps2modchiptutorials.com/assets/blog/simonsps2.jpg){ width="500" }
 
 And got a chance to help [pcm720](https://github.com/pcm720/OSDMenu) test OSDMenu for him to fix for Matrix Infinity, Ghost2v2 and Crystal Chip.
 
