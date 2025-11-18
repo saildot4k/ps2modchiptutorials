@@ -23,7 +23,7 @@ TnA got pissed at me, I got pissed at his attitude and lack of empathy so I just
 Cosmic Scale has been a huge help pointing out more than a few of my mistakes (hidden non-ascii characters what???), or bad URLs from me not being observant...ugh.
 
 During all this I finished the 50K PICFixes so now have them all for [sale/download][sale]  
-[![PICFIXES_PIC](https://ps2modchiptutorials.com/assets/blog/allpicfixes)](sale){ width="800" }
+[![PICFIXES_PIC](https://ps2modchiptutorials.com/assets/blog/allpicfixes)](sale){ width="500" }
 
 [sale]: https://ps2modchiptutorials.com/misc/picfix
 
