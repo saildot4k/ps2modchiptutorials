@@ -23,18 +23,18 @@ TnA got pissed at me, I got pissed at his attitude and lack of empathy so I just
 Cosmic Scale has been a huge help pointing out more than a few of my mistakes (hidden non-ascii characters what???), or bad URLs from me not being observant...ugh.
 
 During all this I finished the 50K PICFixes so now have them all for [sale/download][sale]  
-[![PICFIXES_PIC](https://ps2modchiptutorials.com/assets/blog/allpicfixes.jpg)](sale){ width="500" }
+[![PICFIXES_PIC](https://ps2modchiptutorials.com/assets/blog/allpicfixes.jpg)](sale){ width="300" }
 
 [sale]: https://ps2modchiptutorials.com/misc/picfix
 
 I rewired my personal main PS2:
-![PersonalCC_PIC](https://ps2modchiptutorials.com/assets/blog/personalcc.jpg){ width="500" }
+![PersonalCC_PIC](https://ps2modchiptutorials.com/assets/blog/personalcc.jpg){ width="300" }
 
 ....Color matched my Ghost2v2:
-![PersonalGHOST2_PIC](https://ps2modchiptutorials.com/assets/blog/personalghost2.jpg){ width="500" }
+![PersonalGHOST2_PIC](https://ps2modchiptutorials.com/assets/blog/personalghost2.jpg){ width="300" }
 
 ....Then needed to make a ps2 for a friend that helped: 
-![Thanks-build_PIC](https://ps2modchiptutorials.com/assets/blog/simonsps2.jpg){ width="500" }
+![Thanks-build_PIC](https://ps2modchiptutorials.com/assets/blog/simonsps2.jpg){ width="300" }
 
 And got a chance to help [pcm720](https://github.com/pcm720/OSDMenu) test OSDMenu for him to fix for Matrix Infinity, Ghost2v2 and Crystal Chip.
 
