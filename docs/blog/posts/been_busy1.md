@@ -30,7 +30,7 @@ During all this I finished the 50K PICFixes so now have them all for [sale/downl
 Then needed to make a ps2 for a friend that helped: 
 ![Thanks-build_PIC](https://ps2modchiptutorials.com/assets/blog/simonsps2.jpg){ width="800" }
 
-And got a chance to help [pcm720](https://github.com/pcm720/OSDMenu) test to fix for Matrix Infinity, Ghost2v2 and Crystal Chip.
+And got a chance to help [pcm720](https://github.com/pcm720/OSDMenu) test OSDMenu for him to fix for Matrix Infinity, Ghost2v2 and Crystal Chip.
 
 Installed a DMS4 SE Pro I found to only find it did not work. Sad face. Hopefully another is coming anyday...but it may have been lost in shipping. It made it to my town then went away...
 
