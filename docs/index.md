@@ -2,7 +2,9 @@
 
 # Welcome!
 
-In Progress as of 6/27/2025
+__In Progress as of 11/17/2025__
+
+Sorry for the lack of updates. I have been busy with [PS2 Homebrwe Store](https://ps2store.com) which is a collaboration to keep homebrew organized, easily updatable and something called UMCS, Universal Memory Card Structure that works for ALL setups, modchip or not and is pre-configured for new users and advanced alike. Check it out! Once I am able to hand off that site to others, I will be back here to finish this up!
 
 This sites intended purpose is to give comprehensive install and usage of the last best PS2 modchips.
 
@@ -39,7 +41,7 @@ Click [HERE](homebrew/index.md) for MMCE VMC downloads. These are ready to go fo
         * [ ] Video Tutorials
             * [x] Firmware & BootManager Installation
             * [x] Installing and Running Apps
-            * [ ] R34 v5 Changes
+            * [x] R34 v6 Changes
             * [ ] Configuration options overview
             * [x] Using App MegaPacks
             * [x] Using PS2Client/Link to help debug
@@ -61,7 +63,8 @@ Click [HERE](homebrew/index.md) for MMCE VMC downloads. These are ready to go fo
     ---
 
     - [ ] DMS4 documentation
-        * [x] Install Diagrams
+        * [x] SE Install Diagrams
+        * [ ] NON-SE Install Diagrams
         * [ ] Video Tutorials
             * [ ] Firmware, Toxic Config/OS
             * [ ] Adding apps
@@ -99,6 +102,7 @@ Click [HERE](homebrew/index.md) for MMCE VMC downloads. These are ready to go fo
 
     - [ ] Matrix Infinity documentation
         * [x] Install Diagrams
+        * [ ] Needed fixes for 79k and 90k?
         * [ ] Video Tutorials
             * [ ] Firmware, Config
             * [ ] Adding apps

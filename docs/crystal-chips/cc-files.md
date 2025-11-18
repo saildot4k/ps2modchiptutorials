@@ -1,8 +1,10 @@
-## Crystal Chip FW 34 V6 by R3Z3N 11/17/2025
+## Download
 
-[:material-cloud-download: Crystal Chip FW R34 v5 with updated Dashboard Scripts by R3Z3N](https://github.com/saildot4k/Crystal-Chip-R34-v6/archive/refs/heads/v6.zip)
+[:material-cloud-download: Crystal Chip FW R34 v6 with updated Dashboard Scripts by R3Z3N](https://github.com/saildot4k/Crystal-Chip-R34-v6/archive/refs/heads/v6.zip)
 
-???+ note "R34 V6 Changes"
+## Changelogs
+
+???- note "R34 V6 Changes by R3Z3N 11/17/2025"
     Fixes/Changes:
 
 	- MMCE is now treated like HDD/NETWORK. You can enable/disable/autoload in the Configuration menu.
@@ -14,9 +16,9 @@
 
 	- Scripting cleanup/simplification
 
-## Crystal Chip FW 34 V5 by R3Z3N 6/27/2025
+    - Fixed installer...some dumbass like me forgot each IF needs and ENDIF...SO SORRY!
 
-???+ note "R34 V5 Changes"
+???- note "R34 V5 Changes by R3Z3N 06/27/2025"
     Fixes/Changes:
 
     - SAS (Save Application Support) updated (and probably finalized). There is a script in BM/SCRIPTS/BMRTFLDR.PBT (BootManager Root Folder) \
@@ -74,9 +76,8 @@
     - Bundle the new apps for the MegaPack as they are added to ps2wiki.github.io
 
 
-## Crystal Chip FW 34 V4 by R3Z3N 5/17/2025
 
-???- note "R34 V4 Changes"
+???- note "R34 V4 Changes by R3Z3N 05/17/2025"
     Fixes/Changes:
 
     - SAS (Save Application Support) added as best as possible. Apps can be installed to:
@@ -125,9 +126,8 @@
 
     - Bundle the new apps for the MegaPack
 
-## Crystal Chip FW R34 V3 4/29/2025
 
-???- note "R34 V3 Changes"
+???- note "R34 V3 Changes by R3Z3N 04/29/2025"
 
     Fixes/Changes:
 
@@ -171,7 +171,7 @@
 Click [HERE](../homebrew/index.md) for MMCE VMC downloads. These are ready to go for you! (Multipurpose Memory Card Emulator Virtual Memory Cards)
 
 
-## APPINFO.PBT SAS (SAVE APPLICATION SUPPORT) Example
+## APPINFO.PBT Examples
 
 ???- example "APPINFO.PBT SAS Example"
 
@@ -216,7 +216,12 @@ Click [HERE](../homebrew/index.md) for MMCE VMC downloads. These are ready to go
         EXIT 0
 
     :QUERY
-        ADDWIDGET "CALL" "$TITLE$" "$BM.TXT_VERSION$: $VERSION$ $BM.TXT_AUTHOR$: $AUTHOR$ $BM.TXT_DESC$: $DESC$" $ARG2$ "$ARG0$" "$ARG3$" "$ARG4$" "$ARG5$" "$TITLE$" "$PWD$" "$SAS$" "$SAS_NON_MC$"
+        # Remove this first IF section if you use APP_CONFIG for variables/boot compatibility options etc
+        IF MATCHES "$ARG3$" "APP_CONFIG"
+            EXIT 0
+        ELSEIF
+            ADDWIDGET "CALL" "$TITLE$" "$BM.TXT_VERSION$: $VERSION$ $BM.TXT_AUTHOR$: $AUTHOR$ $BM.TXT_DESC$: $DESC$" $ARG2$ "$ARG0$" "$ARG3$" "$ARG4$" "$ARG5$" "$TITLE$" "$PWD$" "$SAS$" "$SAS_NON_MC$"
+        ENDIF
         EXIT 0
 
     :INSTALL
@@ -329,9 +334,7 @@ Click [HERE](../homebrew/index.md) for MMCE VMC downloads. These are ready to go
 
     ```
 
-
-## APPINFO.PBT Example for BM/APPS/
-???- example "APPINFO.PBT Example"
+???- example "APPINFO.PBT Example for device:/BM/APPS/"
 
     ```pbat linenums="1"
     # Change this information to describe the application.
@@ -351,8 +354,13 @@ Click [HERE](../homebrew/index.md) for MMCE VMC downloads. These are ready to go
         EXIT "0"
 
     :QUERY
-        ADDWIDGET "CALL" "$TITLE$" "$BM.TXT_VERSION$: $VERSION$ $BM.TXT_AUTHOR$: $AUTHOR$ $BM.TXT_DESC$: $DESC$" $ARG2$ "$ARG0$" "$ARG3$" "$ARG4$" "$ARG5$"
-        EXIT "0"
+        # Remove this first IF section if you use APP_CONFIG for variables/boot compatibility options etc
+        IF MATCHES "$ARG3$" "APP_CONFIG"
+            EXIT 0
+        ELSEIF
+            ADDWIDGET "CALL" "$TITLE$" "$BM.TXT_VERSION$: $VERSION$ $BM.TXT_AUTHOR$: $AUTHOR$ $BM.TXT_DESC$: $DESC$" $ARG2$ "$ARG0$" "$ARG3$" "$ARG4$" "$ARG5$" "$TITLE$" "$PWD$" "$SAS$" "$SAS_NON_MC$"
+        ENDIF
+        EXIT 0
 
     :INSTALL
         IF FAIL COPY "$PWD$" "$ARG2$:/BM/APPS/APP_TITLE"
@@ -376,8 +384,6 @@ Click [HERE](../homebrew/index.md) for MMCE VMC downloads. These are ready to go
         EXIT "0"
     ```
 
-
-## APPINFO.PBT with 3 Boot Options Example
 ???- example "APPINFO.PBT Example w 3 Boot Options"
 
     ```pbat linenums="1"
@@ -398,8 +404,13 @@ Click [HERE](../homebrew/index.md) for MMCE VMC downloads. These are ready to go
         EXIT "0"
 
     :QUERY
-        ADDWIDGET "CALL" "$TITLE$" "$BM.TXT_VERSION$: $VERSION$ $BM.TXT_AUTHOR$: $AUTHOR$ $BM.TXT_DESC$: $DESC$" $ARG2$ "$ARG0$" "$ARG3$" "$ARG4$" "$ARG5$"
-        EXIT "0"
+        # Remove this first IF section if you use APP_CONFIG for variables/boot compatibility options etc
+        IF MATCHES "$ARG3$" "APP_CONFIG"
+            EXIT 0
+        ELSEIF
+            ADDWIDGET "CALL" "$TITLE$" "$BM.TXT_VERSION$: $VERSION$ $BM.TXT_AUTHOR$: $AUTHOR$ $BM.TXT_DESC$: $DESC$" $ARG2$ "$ARG0$" "$ARG3$" "$ARG4$" "$ARG5$" "$TITLE$" "$PWD$" "$SAS$" "$SAS_NON_MC$"
+        ENDIF
+        EXIT 0
 
     :INSTALL
         IF FAIL COPY "$PWD$" "$ARG2$:/BM/APPS/APP_TITLE"
@@ -450,6 +461,7 @@ Click [HERE](../homebrew/index.md) for MMCE VMC downloads. These are ready to go
 ## To Do
 
 - [x] SAS support (Apps from root with prefixes IE mc?:/APP_WLE-ISR-EXFAT-MMCE or mc?:/APP_OPL-MMCE-BETA2)
+- [ ] CC 2.0 Pro Boot from Memcard option
 - [ ] CC1.X Boot method failover IE try next memcard
 - [x] CC1.X BootManager boots from USB 
     Commented out in BM/FWS/LATEST/FWINFO.PBT for advanced users to use

@@ -40,7 +40,7 @@
 ![V14 GH-040-12](install-diagrams/dms4se_v14_gh-0040_12.jpg){ width="800" }
 
 #### V15 GH-051-02 GH-051-12
-![V15 GH-051-02](install-diagrams/dms4se_v15-gh-051-02-12.jpg){ width="800" }
+![V15 GH-051-02](install-diagrams/DMS4SE_V15-GH-051-02-12.jpg){ width="800" }
 
 #### V15 GH-051-51
-![V15 GH-051-51](install-diagrams/dms4se_v15-gh-051-51.jpg){ width="800" }
+![V15 GH-051-51](install-diagrams/DMS4SE_V15-GH-051-51.jpg){ width="800" }
