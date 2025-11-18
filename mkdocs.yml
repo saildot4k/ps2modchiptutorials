@@ -49,8 +49,14 @@ extra_css:
 plugins:
   - search
   - blog
-  - glightbox
-
+  - glightbox:
+       touchNavigation: true
+       loop: true
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
 markdown_extensions:
   - attr_list
   - md_in_html
