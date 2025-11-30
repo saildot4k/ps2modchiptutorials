@@ -17,13 +17,13 @@ SET "STRING" "MY_VARIABLE" "Mod your life"
 
 - `STRING` : string (assumed if the below types are not set)
 
-- `U8/S8` : Signed/Unsigned 8-bits number
+- `U8/S8` : Unsigned/Signed 8-bits number
 
-- `U16/S16` : Signed/Unsigned 16-bits number
+- `U16/S16` : Unsigned/Signed 16-bits number
 
-- `U32/S32` : Signed/Unsigned 32-bits number
+- `U32/S32` : Unsigned/Signed 32-bits number
 
-!!! note "Signed/Unsigned definition"
+!!! note "Unsigned/Signed definition"
 
     Signed numbers can be negatives, Unsigned can only be positives.
 
@@ -190,7 +190,9 @@ To display a choice to set a numerical value to a variable
 ADDWIDGET "CHOICE" "Title" "Description" "MY_CHOICE"  "CHOICE 1" "CHOICE 2" "CHOICE 3"
 ```
 
-will display a widget with the specified title and description (the description is displayed in the scroll bar), and will set the variable MY_CHOICE to "0", "1", or "2" depending of the user choice. `CHOICE` variables start with 0 and increment. `CHOICE 1` will be 0 when `$MY_CHOICE$` is recalled. `COICE 2` will be 1 and so forth.
+will display a widget with the specified title and description (the description is displayed in the scroll bar), and will set the variable MY_CHOICE to "0", "1", or "2" depending of the user choice. `CHOICE` variables start with 0 and increment. `CHOICE 1` will be 0 when `$MY_CHOICE$` is recalled. `CHOICE 2` will be 1 and so forth.
+
+These will be saved as signed 32bit variables.
 
 
 ### CALL
