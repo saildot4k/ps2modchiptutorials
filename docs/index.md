@@ -19,9 +19,8 @@ to a well respected care-taker.
 
 !!! danger "No thanks to:"
 
-    TnA Plastic of PS2 Scene Discord, psx-place.com and r/ps2homebrew
+    TnA Plastic of PS2 Scene Discord, psx-place.com and ~~r/ps2homebrew~~ (12/12/2025)
 
-    r/PS2 and Mods
 
 
 ## PS2 Homebrew
