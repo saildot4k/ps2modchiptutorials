@@ -51,7 +51,7 @@ I (R3Z3N) simply applied some artistic touch to make this an easier install that
 
 ### Models that need the Matrix Picfix
 
-__SCPH-370XX/3900XX__ The bug is present in this, but triggers much less often. Also known as V7/V8.
+__SCPH-370XX/3900XX__ The bug is present in this, but triggers much less often. Also known as V7/V8. No fix offered yet..
 
 __SCPH-500XX__ GH-023, GH-026 and GH-029 motherboards. Also known as V9, V10 and V11.
 
@@ -73,17 +73,17 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
 
 -   [![Tindie](assets/picfix/tindie-mediums.png){ width="100" }](https://www.tindie.com/products/r3z3n/sony-ps2-matrix-picfix-flex-for-scph-700xx/) 
 
-    $8/per or $7/per 10 units and over. Shipping is $5 in USA.
+    $8/per or $7/per 10 units and over. Shipping is $6 in USA.
 
 
 -   [![Ko-Fi](assets/picfix/support_me_on_kofi_badge_red.png){ width=100" }](https://ko-fi.com/r3z3n/shop)
 
-    $8/per and shipping is $5 in USA. Gerbers, BOM and Placement file here as well!
+    $8/per and shipping is $6 in USA. Gerbers, BOM and Placement file here as well!
 
 
 -   [![Ebay](assets/picfix/ebay_logo.png){ width="100" }](https://www.ebay.com/itm/116567931846)
 
-    Ebay is the only choice for worldwide shipping from me, $8 and shipping is calculated by them.
+    Ebay is the only choice for worldwide shipping from me, $9 and shipping is calculated by them. Discounts avaliable on multiple items.
 
 
 -   If you are an installer and would like a sample, please let me [know!](mailto:info@ps2modchiptutorials.com)
