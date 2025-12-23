@@ -5,11 +5,32 @@ You need to create an install script that ToxicOS can use to install your apps.
 
 Each script contains a list of applications, each application entry having information and directions for installation and optionally un-installation associated with it.
 
-Each application entry is made up by placing information inside tags. Most tags are required however some are optional.
+Each application entry is made up by placing information inside tags. Most tags are required however some are optional. 
+
+Script must be named INSTALL.CNF and placed next to folders you wish to install
+
+!!! abstract "Example Structure"
+
+    ```
+    mass:/
+        INSTALL.CNF
+
+        APPFOLDER1/
+            |____APP1.ELF
+
+        APPFOLDER2/
+            |____APP2.ELF
+
+    ```
+
+    !!! note
+
+        INSTALL.CNF can also be in App folder(s) to have an install script per app. Pathing is relative, keep this in mind when writing the scripts.
+
 
 ## Install Script Example
 
-```
+``` title="INSTALL.CNF"
 [APP]
 [HEADER]
 [TITLE]
@@ -70,3 +91,7 @@ When a `_` charater is added to the start of the action, i.e. `RMDIR` becomes `_
 Filenames specified in an installation script are not absolute, they are relative to a certain location. This location depends on where the application is being installed to (memory card or HDD) or from. You do not need to be concerned with where files end up on the memory card or HDD, but note that when specifying a source file in the install section, that file is relative to the directory where the installation script is stored.
 
 ToxicOS allows whitespace in installation scripts as well as comments. Any text after a # character is treated as a comment.
+
+# End Result
+
+ToxicOS folder will be created on MemCard 1 or if HDD was destination, a partition named ToxicOS ELF Storage will be created.
