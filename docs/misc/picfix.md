@@ -71,7 +71,7 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
 ## Purchasing PCBs or Files
 <div class="grid cards" markdown>
 
--   [![Tindie](assets/picfix/tindie-mediums.png){ width="100" }](https://www.tindie.com/products/r3z3n/sony-ps2-matrix-picfix-flex-for-scph-700xx/) 
+-   [![Tindie](assets/picfix/tindie-mediums.png){ width="100" }](https://www.tindie.com/stores/r3z3n/) 
 
     $8/per or $7/per 10 units and over. Shipping is $6 in USA.
 
@@ -81,7 +81,7 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
     $8/per and shipping is $6 in USA. Gerbers, BOM and Placement file here as well!
 
 
--   [![Ebay](assets/picfix/ebay_logo.png){ width="100" }](https://www.ebay.com/itm/116567931846)
+-   [![Ebay](assets/picfix/ebay_logo.png){ width="100" }](https://www.ebay.com/usr/r3z3ncl0wd3)
 
     Ebay is the only choice for worldwide shipping from me, $9 and shipping is calculated by them. Discounts avaliable on multiple items.
 
