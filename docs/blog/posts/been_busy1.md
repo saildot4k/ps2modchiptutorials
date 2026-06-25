@@ -16,7 +16,7 @@ Due to hating the the halfphazard setups of others, troubleshooting and updating
 
 So I present [PS2 Homebrew Store!](https://ps2store.com)
 
-TnA got pissed at me, I got pissed at his attitude and lack of empathy so I just made a concept and presented to the guys after TnA banned me from his discord server. From there the crew decided not to interface with him anymore and now it's been featured by CosmicScale for PSBBN DEP! :
+TnA got pissed at me, I got pissed at his narcissistic behavior and desire to insert himself as a problem for others, so I just made a concept website that felt easier to navigate. Then presented to the guys after TnA banned me from his discord server to get approval. From there the crew decided not to interface with him anymore and now it's been featured by CosmicScale for PSBBN DEP! :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fT368C90Trc?si=Xxzz4yO6CLX5RJvL&amp;start=507" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
